@@ -20,7 +20,7 @@ public class ConnectionDB {
     private static final String DRIVE = "com.mysql.jdbc.Driver";                 // Credencias que serão utilizadas para estabelecer a conexão com o BD
     private static final String URL = "jdbc:mysql://localhost:3306/aviacao";
     private static final String USER = "root";
-    private static final String PASS = "464748";
+    private static final String PASS = "insira a senha do BD aqui";
 
     public static Connection getConnection() {
         try {
