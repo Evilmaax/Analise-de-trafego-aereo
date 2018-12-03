@@ -7,7 +7,8 @@ Entre outras coisas o projeto faz o seguinte:
 <li>Conexão com banco de dados local e em arquivo .csv</li>
 <li>Consultas variadas</li>
 <li>Implementação de filtros</li>
-<li>Persistência de dados</li>
+<li>Persistência de dados</li>  
+<li>Implementação de conceitos como herança, composição, separação em camadas, GUI, etc.</li>
 </lu>
 
 Projeto desenvolvido em Java.
